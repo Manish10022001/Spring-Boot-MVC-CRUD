@@ -1,0 +1,4 @@
+do not need rest controller, now need spring mvc controller
+so delete the rest package and create new controller
+
+mvc-1.Get list of all employees
